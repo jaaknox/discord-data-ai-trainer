@@ -16,7 +16,7 @@ Scrape your own Discord messages, turn them into chat-style training pairs, fine
 
 ---
 
-## ⚙️ Prereqs
+## Prereqs
 
 * Python 3.10 +
 * Discord bot with **MESSAGE CONTENT** intent  
@@ -27,7 +27,7 @@ Set your own Discord user ID in `USER_ID` env var.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1  install
